@@ -8,16 +8,11 @@
 
 ![sample1](https://user-images.githubusercontent.com/90335449/213012882-1bd1fe78-c90a-4bbb-826e-5591da94fd12.png)
 
-## To Run
-
-https://adityabahl.github.io/Netflix-Clone/
-
-(Note: For some reason, a warning may appear that the site is dangerous, it is due to faulty algorithm from Google's end, as this site is not a usual website but just for demonstration purposes, dont worry, please proceed when prompted!)
-
 ## Technologies Used
 
 1. HTML
 2. CSS
+3. JavaScript
 
 ## Why Netflix Clone?
 
@@ -50,13 +45,9 @@ Hence, to avoid all that, this project just tries to emulate the front-end aspec
 
 In the context of a student project, creating a clone of the Netflix platform can be an excellent learning opportunity. It allows students to gain a deeper understanding of how such a platform works and how it is built. It can serve as a valuable exercise in software development, helping students improve their skills in areas such as user experience design, database management, and scalability. However, it's important to keep in mind that creating a fully functional and polished clone of the Netflix platform is a significant undertaking that would require a high level of technical expertise and would be very time-consuming. Therefore it's crucial to scope the project and set realistic goals that students can achieve within the time frame and resources available. Also, It's important to work on the project under the legal and ethical guidelines, any violation of copyright laws or trademark rights should be avoided.
 
-### Contributors
-
-@abhi-j
-
 ### MIT Licence
 
-**Copyright (c) 2023 Aditya Bahl**
+**Copyright (c) 2024 Mahi Chaudhary**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
